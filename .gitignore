@@ -1,0 +1,18 @@
+# Dados e segredos locais
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# Artefatos de compilação
+build/
+dist/
+*.spec
+
+# Dados criados pelo aplicativo caso AI_DATA_DIR aponte para o repositório
+LocalAI/
+Arquivos/
+anexos/
+*.db
+*.db-shm
+*.db-wal
